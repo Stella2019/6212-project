@@ -1,3 +1,3 @@
 # 6212-project
-course project
-For the latest view of gradebook projrct, please check project1-> task3-> gradebook prject 2->gradebook.py
+Project 1:
+For the latest view of gradebook project, please check project1-> task3-> gradebook project 2->gradebook.py
